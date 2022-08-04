@@ -2,6 +2,7 @@
 layout: post
 title: Sudoku Çözücü Uygulaması
 slug: sudoku-solver
+date: "2013-12-02"
 author: Bahri ABACI
 categories:
 - Görüntü İşleme Uygulamaları
